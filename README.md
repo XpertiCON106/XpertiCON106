@@ -19,3 +19,10 @@
 <p align="center">
   <sub>HuddlePals is in beta. Install TestFlight from the App Store, then tap the link to join.</sub>
 </p>
+
+<br>
+
+<p align="center">
+  <b>Want to see the code?</b><br>
+  The HuddlePals repository is private. <a href="mailto:hello@huddlepals.com?subject=HuddlePals%20repository%20access">Email hello@huddlepals.com</a> and I'll give you access.
+</p>

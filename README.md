@@ -19,9 +19,3 @@
 <p align="center">
   <sub>HuddlePals is in beta. Install TestFlight from the App Store, then tap the link to join.</sub>
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://huddlepals.com/about">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huddlepals.com/privacy">Privacy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huddlepals.com/terms">Terms</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huddlepals.com/support">Support</a>
-</p>

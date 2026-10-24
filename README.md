@@ -1,8 +1,5 @@
 <img src="assets/hero-35d026be.svg" width="100%" alt="Tahalil Morsilin">
 
-<br>
-<br>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">

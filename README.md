@@ -1,28 +1,23 @@
-<a href="https://huddlepals.com">
-  <img src="assets/cover.svg" width="100%" alt="HuddlePals. One photo a day. Just your people.">
-</a>
+<img src="assets/cover.svg" width="100%" alt="Hi, I'm Tahalil. I like to build things on the side, sometimes.">
 
 <br>
 <br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/headline-dark.svg">
-    <img src="assets/headline-light.svg" height="44" alt="Post yours to see theirs.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+    <img src="assets/projects-light.svg" height="64" alt="Projects. Click a card to open its repository.">
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://testflight.apple.com/join/eFWghMfG"><img src="assets/button-testflight.svg" height="52" alt="Join the beta on TestFlight"></a>&nbsp;&nbsp;<a href="https://huddlepals.com"><img src="assets/button-website.svg" height="52" alt="Visit huddlepals.com"></a>
+<p>
+  <a href="https://github.com/XpertiCON106/HuddlePals"><img src="assets/project-huddlepals.svg" width="100%" alt="HuddlePals, an iOS app: a private photo app for groups of 2 to 8. One photo a day, end-to-end encrypted. Built with Swift, SwiftUI and Supabase. View the repository."></a>
 </p>
 
-<p align="center">
-  <sub>HuddlePals is in beta. Install TestFlight from the App Store, then tap the link to join.</sub>
+<p>
+  <a href="https://github.com/XpertiCON106/HuddlePals.com"><img src="assets/project-huddlepals-com.svg" width="100%" alt="HuddlePals.com, a website: the website for HuddlePals, with its landing page, legal pages and support. Built with React, TypeScript and Vite. View the repository."></a>
 </p>
 
-<br>
-
-<p align="center">
-  <b>Want to see the code?</b><br>
-  The HuddlePals repository is private. <a href="mailto:hello@huddlepals.com?subject=HuddlePals%20repository%20access">Email hello@huddlepals.com</a> and I'll give you access.
+<p>
+  <a href="https://github.com/XpertiCON106/Terraforming-Planet-Mars"><img src="assets/project-terraforming-mars.svg" width="100%" alt="Terraforming Planet Mars, a research project: Reviving the Fallen, my 2014–15 research project on how best to terraform Mars. View the repository."></a>
 </p>

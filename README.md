@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Tahalil I Morsilin">
+<img src="assets/hero-0275dc5e.svg" width="100%" alt="Tahalil I Morsilin">
 
 <br>
 <br>

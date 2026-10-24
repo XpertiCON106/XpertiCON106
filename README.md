@@ -1,4 +1,4 @@
-<img src="assets/cover.svg" width="100%" alt="Hi, I'm Tahalil. I like to build things on the side, sometimes.">
+<img src="assets/cover.svg" width="100%" alt="Tahalil I Morsilin">
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/XpertiCON106/TEASE-software-package"><img src="assets/project-tease.svg" width="100%" alt="Project TEASE, a balloon payload: a weather balloon payload that made electricity from near-space cold, and its Arduino logger. Built with C++ and Arduino in 2017. View the repository."></a>
+  <a href="https://github.com/XpertiCON106/TEASE-software-package"><img src="assets/project-tease.svg" width="100%" alt="TEASE, a balloon payload: a weather balloon payload that made electricity from near-space cold, and its Arduino logger. Built with C++ and Arduino in 2017. View the repository."></a>
 </p>
 
 <p>

@@ -19,5 +19,9 @@
 </p>
 
 <p>
+  <a href="https://github.com/XpertiCON106/TEASE-software-package"><img src="assets/project-tease.svg" width="100%" alt="Project TEASE, a balloon payload: a weather balloon payload that made electricity from near-space cold, and its Arduino logger. Built with C++ and Arduino in 2017. View the repository."></a>
+</p>
+
+<p>
   <a href="https://github.com/XpertiCON106/Terraforming-Planet-Mars"><img src="assets/project-terraforming-mars.svg" width="100%" alt="Terraforming Planet Mars, a research project: Reviving the Fallen, my 2014–15 research project on how best to terraform Mars. View the repository."></a>
 </p>

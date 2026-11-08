@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huddlepals.com/"><img src="assets/project-huddlepals-7a12e7d4.svg" width="100%" alt="HuddlePals: one photo a day, just your people. Available in beta on TestFlight for iPhone, iPad, iPhone Duo, Apple Watch and macOS. Visit HuddlePals.com."></a>
+  <a href="https://huddlepals.com/"><img src="assets/project-huddlepals-56efc45d.svg" width="100%" alt="HuddlePals: one photo a day, just your people. Available in beta on TestFlight for iPhone, iPad, iPhone Duo, Apple Watch and macOS. Visit HuddlePals.com."></a>
 </p>
 
 <p align="center">
